@@ -1,0 +1,4 @@
+1. Verify that the scripts reference the correct shell binaries.
+2. Modify the Makefile accordingly.
+3. Execute sudo make install.
+4. Verify that the installed files have the correct permissions.
